@@ -1,0 +1,49 @@
+{
+  "Shop": {
+    "Merch": {
+      "Price": 500
+    },
+    "Sandwich": {
+      "Price": 60
+    },
+    "Sanitizer": {
+      "Price": 30
+    },
+    "Swimming Goggles": {
+      "Price": 400
+    },
+    "Tennis Ball": {
+      "Price": 80
+    },
+    "Water": {
+      "Price": 20
+    }
+  },
+  "Users": {
+    "374826": {
+      "Bill": 50,
+      "Name": "Srividya Prasad",
+      "Type": "Employee"
+    },
+    "459322": {
+      "Bill": 500,
+      "Name": "Adithya M",
+      "Type": "Employee"
+    },
+    "673289": {
+      "Bill": 0,
+      "Name": "Rathan R",
+      "Type": "Member"
+    },
+    "782830": {
+      "Bill": 120,
+      "Name": "Mahima Dubey",
+      "Type": "Member"
+    },
+    "902132": {
+      "Bill": 1000,
+      "Name": "Deeksha Sudarshan",
+      "Type": "Member"
+    }
+  }
+}
