@@ -5,6 +5,7 @@ Users register on the application and receive a unique QR code. They visit shops
 
 <h4> 
 </h4>
+
 ![FirebaseDatabase](https://github.com/srividyaprasad/User-Verified-Billing/assets/87866127/b5e61fa1-92a6-42e3-a4c7-d711836a57d0)
 
 <h4> * Submission for GDSC PolyHack, The Hong Kong Polytechnic University's largest hackathon. </h4>
