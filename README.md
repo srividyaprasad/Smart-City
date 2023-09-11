@@ -2,7 +2,7 @@
 
 <h3>Our Solution</h3>
 Users register on the application and receive a unique QR code. They visit shops in the stadium, scan the QR code, browse products, and make purchases. The price is deducted from their virtual wallets in the real-time database after registration. Optional features include a loyalty program and data analytics for company insights. Secure authentication ensures safe transactions and a cash-free experience.
-
+Alternate RFID access provided with working POC using ESP32 provided.
 <h4> 
 </h4>
 
